@@ -33,14 +33,16 @@
 二.测试模型：
 1. 获取训练好的模型：
 
-    ```bash
 见步骤一，或者从下面的链接中下载我们训练好的模型：
 
 [[Our best model]](https://cloud.tsinghua.edu.cn/smart-link/b64c94ee-3515-40a1-9612-af66e7a62cab/)
 
 注：该模型只能在python0.4.0环境下运行，如果在python1.1.0下运行会报错。
-    ```
+
 2. 测试模型融合结果：
 
 执行命令： python ModelFusion.py
+    
+
+    结果：
     ![Figure](results.png)
